@@ -2,7 +2,10 @@
 
 int main()
 {
-     printf("hello test...\n");
-     return 0;
+     
+
+	int a=10;
+	int b=99;
+	return 0;
 
 }
